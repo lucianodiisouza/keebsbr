@@ -6,7 +6,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/lucianodiisouza/keebsbr',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/lucianodiisouza/keebsbr',
   footer: {
     text: 'Keebs BR',
   },
